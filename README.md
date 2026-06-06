@@ -10,7 +10,6 @@ This repository is a personal knowledge base capturing concepts, observations, a
 
 ```text
 Claude AI Training Courses/
-├── certs/                  # Certificates or course completion proofs
 └── notes/                  # Self-written notes by topic
     ├── what-are-skills.md
     ├── prompt-engineering.md
